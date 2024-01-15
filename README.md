@@ -10,8 +10,7 @@ O dataset selecionado tem por base um estudo cujo objetivo visa a análise da in
 #### Informações do Dataset
 Dataset 5: GDS5393
 
-Disponível em:
-https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS5393
+Disponível em: https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS5393
 
 Ficheiros:
 
@@ -20,7 +19,7 @@ Ficheiros:
 •	Metadados: meta-gds5393.csv (120 linhas - amostras X 6 colunas – variáveis)
 
 
-### Metodologia
+### Metodologia de Trabalho (Notebook)
 
 #### Secção 1 - Exploração do Dataset Pela Análise de Dados e Metadados
 Carregamento de dados e metadados para análise. Descrição de dataset e caracterização de dados atribuídos com base em literatura disponibilizada. Vizualição de gráficos exploratórios de caracterísitcas principais de metadados. Etapas de standardização e passos de preprocessamentos de dados, nomeadamente tratamento de valores nulos e transposição de dados. Seleção de metadados com maior relevância para análise. 
