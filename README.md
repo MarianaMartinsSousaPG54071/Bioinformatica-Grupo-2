@@ -28,7 +28,7 @@ Carregamento de dados e metadados para análise. Descrição de dataset e caract
 Filtração e standardização, por pre-processamento, de dados. Aplicaçao de técnicas de redução de dimensionalidade (PCA, t-SNE) e métodos de clustering (Hierárquico, k-Means). Análise e interpretação de resultados.
 
 #### Secção 3 - Modelos de Aprendizagem Máquina
-Desenvolvimento e aplicação de algoritmos de aprendizagem máquina supervisionada (Árvores de Decisão, Regressão Logística, SVM, NB, KNN). Análise de comportamento de modelos baseada em métricas de erro (accuracy, ROC) e aplicação de métodos de previsão de erro (cross-val-score). Desenvolvimento e avaliação de Ensemble Model. Análise e interpretaçao de resultados. 
+Desenvolvimento e aplicação de algoritmos de aprendizagem máquina supervisionada (Árvores de Decisão, Regressão Logística, SVM, NB, KNN). Análise de comportamento de modelos baseada em métricas de erro (accuracy, precision, f1-score, ROC) e aplicação de métodos de previsão de erro (cross-val-score, stratified-cross-val-score). Desenvolvimento e avaliação de Ensemble Model. Análise e interpretaçao de resultados. 
 
 
 ### Literatura:
